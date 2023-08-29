@@ -1,0 +1,18 @@
+                  // ANNOTATIONS AVAILABLE IN TESTNG //  
+1. @Override
+2. @Test
+3. @BeforeSuite
+4. @AfterSuite
+5. @BeforeClass
+6. @AfterClass
+7. @BeforeMethod
+8. @AfterMethod
+9. @BeforeTest
+10. @AfterTest
+11. @BeforeGroup
+12. @AfterGroup
+13. @DataProvider
+14. @Parameters
+15. @Factory
+16. @Listeners
+17. @Ignore

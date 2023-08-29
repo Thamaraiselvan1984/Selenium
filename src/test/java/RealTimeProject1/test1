@@ -1,0 +1,8 @@
+                  // Test Case1 //
+
+ 1. Open the Chrome Browser.
+ 2. Navigate to "https://emicalculator.net/" url.
+ 3. Drag Loan amount to 75 lakhs.
+ 4. Drag Interest Rate to 12.5%.
+ 5. Drag Loan Tenure to 15 years.
+ 8. Then verify the calculated loan EMI should be 92,439.

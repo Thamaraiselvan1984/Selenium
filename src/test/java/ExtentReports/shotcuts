@@ -1,0 +1,9 @@
+           /// SHOTCUTS IN EXTENT REPORTS ///
+    
+    * P - SHOW PASSED TESTS				
+    * F - SHOW FAILED TESTS				* I - SWITCH THEME
+    * S - SHOW SKIPPED TESTS            * T - TEST
+    * W - SHOW WARNING TESTS            * C - TAG
+    * ESC - CLEAR FILTERS               * D - DASHBOARD
+    * DOWN-ARROW-SCROLL DOWN			* X - EXCEPTION/BUG
+    * UP-ARROW - SCROLL UP

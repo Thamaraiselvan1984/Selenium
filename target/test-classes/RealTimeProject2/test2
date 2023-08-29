@@ -1,0 +1,8 @@
+              // test case 2//
+
+
+1. Open the Chrome Browser
+2. Navigate to url https://datatables.net/examples/advanced_init/dt_events.html
+3. Capture all the Names in the WebTable
+4. Print all the Names
+5. Compare the count showing on the webtable with the captured names count.

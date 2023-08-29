@@ -1,0 +1,12 @@
+       // Listeners //
+    
+1. IAnnotationTransformer
+2. IAnnotationTransformer2
+3. IHookable
+4. IInvokedMethodListener
+5. IMethodInterceptor
+6. IReporter
+7. ISuiteListener
+8. ITestListener
+
+we can also use - extends "TestListenerAdapter"

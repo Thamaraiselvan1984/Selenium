@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TestNG">
+  <test name="ANNOTATIONS">
+    <classes>
+      <class name="TestNG.annotation"/>
+      <methods>
+      <include name="Testcase1"/>
+      <include name="Testcase1"/>
+      </methods>
+    </classes>
+  </test> <!-- Test -->
+  <test name="GROUPTEST">
+    <classes>
+      <class name="TestNG.groups"/>
+      <methods>
+      <include name="checkTitle"/>
+      <include name="checkElement"/>
+      </methods>
+    </classes>
+  </test> <!-- Test -->
+  
+   <test name="makemytrip">
+    <classes>
+      <class name="TestNG.datepicker"/>
+      <methods>
+      <include name="tripDetails"/>
+      </methods>
+    </classes>
+  </test> <!-- Test -->
+  <test name="testattribute">
+    <classes>
+      <class name="TestNG.successpercentage"/>
+      <methods>
+      <include name="testng1"/>
+      </methods>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+
